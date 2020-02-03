@@ -1,0 +1,24 @@
+{
+  "name": "react-project-jan20",
+  "version": "1.0.0",
+  "description": "React project repo for learning Jan 2020",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpwit/react-project-jan20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpwit/react-project-jan20/issues"
+  },
+  "homepage": "https://github.com/dpwit/react-project-jan20#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
